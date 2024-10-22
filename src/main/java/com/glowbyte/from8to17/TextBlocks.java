@@ -12,7 +12,7 @@ public class TextBlocks {
              Кавычки ' " не нужно экранировать
              но все еще нужно экранировать обратный слэш \\
              Форматирование,  %s, тоже поддерживается
-               """;
+        """;
 
 		String newStr = example.formatted("как и с обычной строкой");
 		System.out.println(newStr);
