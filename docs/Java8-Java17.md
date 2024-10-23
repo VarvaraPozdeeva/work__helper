@@ -37,6 +37,7 @@
 1. [Sealed клас](/docs/sealed.md)
 
 полезные ссылки
+https://docs.oracle.com/en/java/javase/23/language/java-language-changes.html#GUID-0DF89F53-9232-44E3-80A4-48DD0C2CF359
 https://habr.com/ru/companies/jugru/articles/652821/
 https://dzen.ru/a/Y1RzttU6iSw6OKNq
 https://habr.com/ru/articles/593243/
