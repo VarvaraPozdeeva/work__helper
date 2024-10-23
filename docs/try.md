@@ -19,7 +19,9 @@ try {
 
 Новая версия 
 ```java
-try (Scanner scanner = new Scanner(new File("test.txt"))) {
+// New and improved try-with-resources statement in Java SE 9
+        try (resource1;
+             resource2) {         
     while (scanner.hasNext()) {
         System.out.println(scanner.nextLine());
     }
