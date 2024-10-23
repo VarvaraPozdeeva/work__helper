@@ -3,7 +3,7 @@
 **Java 9**
 
 1. Модули
-2. [Try-with-resources](/docs/try.md)
+2. [Try-with-resources](/docs/try.md)  (проверить, что именно нового?)
 3. Diamond для анонимных классов 
 4. Private методы в интерфейсах
 
